@@ -1,2 +1,2 @@
 # Capstone-Project
-Capstone project test
+This repository will host all of my notebooks for the IBM Data Science Certification Capstone projects.
